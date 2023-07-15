@@ -1,0 +1,14 @@
+{
+  "name": "discord-import",
+  "version": "1.0.0",
+  "description": "webhook bot to import discord messages to channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0x4e49434f4c45",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
